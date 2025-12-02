@@ -1,6 +1,4 @@
-This vault contains a mix of public and private files. All files are private except for files located in `./Public` which get copied to a public repo.
-
-### GitHub Workflow (sync public files)
+## Obsidian GitHub Workflow (sync public files)
 
 On sync/push, [.github/workflows/sync-public.yaml](./.github/workflows/sync-public.yaml) handles copying public files.
 
