@@ -7,24 +7,25 @@ On sync/push, [.github/workflows/sync-public.yaml](./.github/workflows/sync-publ
 ```yml
 name: "Sync public files"
 on:
-	push:
-		branches: [ main ]
+ push:
+  branches: [ main ]
 jobs:
-	sync-public:
-		name: Sync public files
-		runs-on: ubuntu-latest
-		steps:
-			- name: Sync public files
-			uses: nkoppel/push-files-to-another-repository@v1.1.4
-			env:
-			API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-			with:
-				source-files: 'Public/'
-				destination-username: 'your-username'
-				destination-repository: 'destination-repo-name'
-				destination-branch: 'main'
-				commit-email: 'youremail@email.com'
+ sync-public:
+  name: Sync public files
+  runs-on: ubuntu-latest
+  steps:
+   - name: Sync public files
+   uses: nkoppel/push-files-to-another-repository@v1.1.4
+   env:
+    API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+   with:
+    source-files: 'Public/'
+    destination-username: 'your-username'
+    destination-repository: 'destination-repo-name'
+    destination-branch: 'main'
+    commit-email: 'youremail@email.com'
 ```
+
 #### Generate GitHub API Key
 
 The default API key only has access to the private repo, so you'll need to generate a new key that has read/write access to both the public and private repos.
