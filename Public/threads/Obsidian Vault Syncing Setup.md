@@ -1,4 +1,4 @@
-## Obsidian GitHub Workflow (sync public files)
+## GitHub Workflow (sync public files)
 
 On sync/push, [.github/workflows/sync-public.yaml](./.github/workflows/sync-public.yaml) handles copying public files.
 
