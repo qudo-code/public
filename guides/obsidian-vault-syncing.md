@@ -1,3 +1,4 @@
+
 # Obsidian Vault Syncing
 https://x.com/_qudo/status/1995982742140723276?s=20
 https://github.com/qudo-code/obsidian-vault-template

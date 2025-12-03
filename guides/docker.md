@@ -1,3 +1,4 @@
+
 # Docker
 ![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165028.png)
 Docker at its core is a tool for organizing virtual machines. In this guide I go over how I use it for developing and hosting all my projects.

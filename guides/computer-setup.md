@@ -1,3 +1,4 @@
+
 # Computer Setup
 ![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164036.png)
 #### MacOS w/Aerospace

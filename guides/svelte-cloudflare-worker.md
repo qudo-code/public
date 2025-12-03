@@ -1,3 +1,4 @@
+
 # Svelte Cloudflare Worker
 https://github.com/the76devs/template--smol-svelte-cloudflare-worker
 A super small Svelte app with a companion Cloudflare worker as a backend when you need it. It's kinda like Sveltekit, but more modular and less guided.

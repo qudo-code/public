@@ -1,3 +1,4 @@
+
 # 33 Times Hash
 ```ts
 // This is Daniel J. Bernstein's popular `times 33' hash function 

@@ -1,3 +1,4 @@
+
 # Svelte Single File
 https://github.com/qudo-code/template--svelte-single-file
 # ⚡️ Svelte Single File

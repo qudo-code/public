@@ -1,3 +1,4 @@
+
 # Intro to Leptos
 https://x.com/_qudo/status/1638193893580869632
 gm, this week I've been learning Rust. As I've been learning this from a web devs perspective, I've been eager to find cool web use cases for Rust. I looked at a couple Rust/WASM frameworks and this one stood out. Here's what I've learned so far...
