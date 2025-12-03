@@ -1,5 +1,6 @@
 
 # Upload Folder to Irys
+Script for uploading a directory on-chain using Irys.
 ```ts
 // to use this script"
 // via the solana cli run "solana-keygen new -o upload.json"

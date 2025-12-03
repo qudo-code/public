@@ -1,5 +1,6 @@
 
 # Sveltekit OAuth + Session Validation
+OAuth and session management patterns for SvelteKit.
 `auth.ts`
 ```ts
 import { createSession, invalidateSession } from "./session";

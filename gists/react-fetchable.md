@@ -1,5 +1,6 @@
 
 # React Fetchable
+Typed request handler for React that manages its own state.
 ```tsx
 // Fetchable pattern used for all requests
 type Fetchable<T> = {

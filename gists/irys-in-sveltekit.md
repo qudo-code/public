@@ -1,5 +1,6 @@
 
 # Irys in SvelteKit
+Upload files on-chain using Irys and Sveltekit.
 `+layout.svelte`
 ```ts
 <script lang="ts">

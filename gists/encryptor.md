@@ -1,5 +1,6 @@
 
 # Encryptor
+Class for handling encrypting/decrypting strings.
 ```ts
 // Encryption utils
 import crypto from 'crypto';

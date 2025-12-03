@@ -1,5 +1,6 @@
 
 # OTP
+Utility for implementing and verifying OTPs. 
 ```ts
 // 2FA utils
 import QRCode from 'qrcode';

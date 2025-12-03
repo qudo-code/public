@@ -1,5 +1,6 @@
 
 # Calc Merkle Tree Size
+Utility for calculating merkle tree size config when setting up a Solana compressed NFT project. 
 ```ts
 import {
   ALL_DEPTH_SIZE_PAIRS,
