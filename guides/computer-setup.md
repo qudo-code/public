@@ -24,7 +24,7 @@ Once installed, the `dots` CLI should be available in your terminal.
    - Change `~/dots/config.sh` as needed.
 - `dots edit`: Opens the config files in editor.
 	- First checks for `zed`, then `cursor`, then `code`.
-- `dots install`: Intended to be used for heavier less frequest setup tasks.
+- `dots install`: Intended to be used for heavier less request setup tasks.
 	- On `nixos`: Rebuilds the current config.
 	- On `macos`: Installs Homebrew, apps via homebrew and other base apps and tools.
 *CLI logic lives in ~/dots/cli.sh, edit as needed.*

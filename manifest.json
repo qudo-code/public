@@ -79,7 +79,7 @@
       "title": "Computer Setup",
       "paragraph": "I've added a config pattern and CLI for detecting the current OS and syncing configs based on the environment.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164036.png",
-      "updated_at": "2025-12-03T12:22:54-08:00",
+      "updated_at": "2025-12-03T12:23:55-08:00",
       "created_at": "2025-03-2T20:40:00-08:00",
       "repo_url": "https://github.com/qudo-code/dots"
     },
