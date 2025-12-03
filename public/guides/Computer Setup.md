@@ -1,5 +1,5 @@
 
-![[Pasted image 20251202164036.png]]
+![[https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/public/media/Pasted image 20251202164036.png]]
 #### MacOS w/Aerospace
 ![[Pasted image 20251202164159.png]]
 #### NixOS w/Hyprland
