@@ -233,48 +233,52 @@
       "title": "OPOS Outliers",
       "paragraph": "Mint a compressed NFT for free without a wallet using Solana and TipLink. Users are able to design an \"OPOS Outlier\" and mint it as a cNFT via Gmail-based claiming. The art and attributes were created by Web3 artists and brands.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202175702.png",
-      "updated_at": "2025-12-02T19:58:49-08:00",
-      "created_at": "2025-12-02T19:03:38-08:00"
+      "updated_at": "2025-12-03T12:40:38-08:00",
+      "created_at": "2023-04-01T20:40:00-08:00",
+      "app_url": "https://opos.quest/"
     },
     {
       "path": "projects/sketchy-wallet.md",
       "title": "Sketchy Wallet",
       "paragraph": "Generate a Solana wallet and email the credentials to someone. Perfect for those times when you need a one off wallet with keys auto backed up. I used this for making a wallet for my toddler so I can send him NFTs.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192403.png",
-      "updated_at": "2025-12-02T19:58:49-08:00",
-      "created_at": "2025-12-02T19:58:49-08:00"
+      "updated_at": "2025-12-03T12:40:38-08:00",
+      "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
       "path": "projects/solana-terminal.md",
       "title": "Solana Terminal ",
       "paragraph": "Solana Terminal, an NFT explorer and utilities. Link your wallet and Discord, listen to music NFTs, render HTML NFTs, view your artwork, query NFTs by creator and more.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191434.png",
-      "updated_at": "2025-12-02T19:58:49-08:00",
-      "created_at": "2025-12-02T19:58:49-08:00"
+      "updated_at": "2025-12-03T12:40:38-08:00",
+      "created_at": "2022-01-01T20:40:00-08:00"
     },
     {
       "path": "projects/state-machine-snacks.md",
       "title": "State Machine Snacks",
       "paragraph": "A framework built on [XState](https://xstate.js.org/docs/about/concepts.html) that provides bite sized snacks for developing with state machine machines. 🍕 aims to increase state machine adoption in modern day web apps by providing a suite of tools and plugins to inspire development and new ways of thinking.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121818.png",
-      "updated_at": "2025-12-03T12:22:54-08:00",
-      "created_at": "2025-12-02T20:59:45-08:00"
+      "updated_at": "2025-12-03T12:40:38-08:00",
+      "created_at": "2021-06-07T20:40:00-08:00",
+      "repo_url": "https://github.com/qudo-code/state-machine-snacks"
     },
     {
       "path": "projects/the-76-devs.md",
       "title": "The 76 Devs",
       "paragraph": "Created a Discord community where developers can ask questions and share what they're working on during our live show n tells. We have ~3k+ members in Discord and 1.5k+ on Twitter. ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202210052.png",
-      "updated_at": "2025-12-02T21:09:52-08:00",
-      "created_at": "2025-12-02T21:09:52-08:00"
+      "updated_at": "2025-12-03T12:40:38-08:00",
+      "discord_url": "https://discord.gg/gEFsKhnrzF",
+      "created_at": "2023-07-015T20:40:00-08:00"
     },
     {
       "path": "projects/user-profiles.md",
       "title": "User Profiles",
       "paragraph": "Lead development of cross-app authentication and user profiles that supported 150k accounts.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202205205.png",
-      "updated_at": "2025-12-02T20:52:11-08:00",
-      "created_at": "2025-12-02T19:03:38-08:00"
+      "updated_at": "2025-12-03T12:40:38-08:00",
+      "created_at": "2024-10-01T20:40:00-08:00",
+      "app_url": "https://profiles.cyfrin.io"
     }
   ]
 }
