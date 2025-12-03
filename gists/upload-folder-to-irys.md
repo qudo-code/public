@@ -46,6 +46,7 @@ const uploadFolder = async () => {
   console.log(`Files uploaded. Manifest ID ${receipt?.id}`);
 }
 
+// Use as needed
 // fundIrysWallet(0.005);
 // uploadFolder();
 ```
