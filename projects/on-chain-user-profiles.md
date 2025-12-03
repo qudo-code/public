@@ -1,7 +1,7 @@
+
 # On-Chain User Profiles
 ![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121607.png)
 A user profiles protocol stored on Arweave, verified on Solana via compressed NFTs.
-https://github.com/qudo-code/eternal-users-protocol
 
 ## React Usage
 

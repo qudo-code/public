@@ -96,40 +96,46 @@
       "title": "Intro to Leptos",
       "paragraph": "I am new to this framework and Rust so DYOR, what do I know. But, I've experimented with a lot of state shapes in web dev using meta frameworks like SvelteKit and lately the closest thing to what I've wanted is tRPC + Tanstack Query + tRPC/Tanstack Adapter.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202194805.png",
-      "updated_at": "2025-12-03T11:59:30-08:00",
-      "created_at": "2023-03-21T20:40:00-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2023-03-21T20:40:00-08:00",
+      "x_url": "https://x.com/_qudo/status/1638193893580869632"
     },
     {
       "path": "guides/obsidian-vault-syncing.md",
       "title": "Obsidian Vault Syncing",
       "paragraph": "I love [@obsdmd](https://x.com/obsdmd) and I just figured out a life changing addition to make my stack even better. I sync my vault to GitHub, but the problem with that is everything can only be 100% private or 100% public. I found a slick way around this so I can use one vault for everything.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202193609.png",
-      "updated_at": "2025-12-03T12:01:45-08:00",
-      "created_at": "2025-12-02T20:40:00-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2025-12-02T20:40:00-08:00",
+      "x_url": "https://x.com/_qudo/status/1995982742140723276?s=20",
+      "repo_url": "https://github.com/qudo-code/obsidian-vault-template"
     },
     {
       "path": "guides/svelte-cloudflare-worker.md",
       "title": "Svelte Cloudflare Worker",
       "paragraph": "A super small Svelte app with a companion Cloudflare worker as a backend when you need it. It's kinda like Sveltekit, but more modular and less guided.",
       "image": "",
-      "updated_at": "2025-12-03T11:59:30-08:00",
-      "created_at": "2023-06-28T20:40:00-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2023-06-28T20:40:00-08:00",
+      "repo_url": "https://github.com/the76devs/template--smol-svelte-cloudflare-worker"
     },
     {
       "path": "guides/svelte-single-file.md",
       "title": "Svelte Single File",
       "paragraph": "Compile a Svelte project to a single index.html file.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121223.png",
-      "updated_at": "2025-12-03T12:22:54-08:00",
-      "created_at": "2023-04-23T20:40:00-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2023-04-23T20:40:00-08:00",
+      "repo_url": "https://github.com/qudo-code/template--svelte-single-file"
     },
     {
       "path": "guides/sveltekit-solana-signin-with-wallet.md",
       "title": "Sveltekit + Solana Wallet Signin",
       "paragraph": "Full-stack SvelteKit example project showing \"Sign in With Solana\" patterns. - Use Solana wallet adapter & connect to wallet. - Request time-sensitive message from the backend. - Sign message using wallet. - Verify signature.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202200621.png",
-      "updated_at": "2025-12-03T11:59:30-08:00",
-      "created_at": "2022-12-02T20:42:22-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2022-12-02T20:42:22-08:00",
+      "repo_url": "https://github.com/qudo-code/example--svelte-sign-in-with-solana"
     },
     {
       "path": "guides/upload-files-onchain-using-irys.md",
@@ -146,8 +152,10 @@
       "title": "XRAY Explorer",
       "paragraph": "Human-readable Solana blockchain explorer built with SvelteKit. Built for Grizzlython hackathon.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191343.png",
-      "updated_at": "2025-12-03T11:59:30-08:00",
-      "created_at": "2022-06-02T20:40:00-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2022-06-02T20:40:00-08:00",
+      "repo_url": "https://github.com/helius-labs/xray",
+      "x_url": "https://x.com/_qudo/status/1740843157309608427?s=20"
     },
     {
       "path": "projects/calculate-merkle-tree-cli.md",
@@ -162,40 +170,46 @@
       "title": "Compressed Bananas",
       "paragraph": "A free cNFT dispenser in celebration of NYC Solana Hacker House and presented on demo day.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191539.png",
-      "updated_at": "2025-12-03T11:59:30-08:00",
-      "created_at": "2023-06-11T20:40:00-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2023-06-11T20:40:00-08:00",
+      "repo_url": "https://github.com/qudo-code/compressed-bananas"
     },
     {
       "path": "projects/dedoc.md",
       "title": "Dedoc",
       "paragraph": "Decentralized on-chain documentation suitable for any project. Content is stored for eternity on Arweave and verified on Solana using Metaplex cNFTs. Users are their own creators and own 100% of their data.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202181752.png",
-      "updated_at": "2025-12-03T11:59:30-08:00",
-      "created_at": "2024-02-29T20:40:00-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2024-02-29T20:40:00-08:00",
+      "repo_url": "https://github.com/the76devs/dedoc",
+      "x_url": "https://x.com/_qudo/status/1763217628120908047?s=20"
     },
     {
       "path": "projects/devnet-directory.md",
       "title": "Devnet Directory",
       "paragraph": "On-chain directory of Solana developers.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202210603.png",
-      "updated_at": "2025-12-03T11:59:30-08:00",
-      "created_at": "2024-01-05T20:40:00-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2024-01-05T20:40:00-08:00",
+      "x_url": "https://x.com/the76devs/status/1743389412644577677?s=20"
     },
     {
       "path": "projects/gibwallet-cli.md",
       "title": "Gibwallet CLI",
       "paragraph": "Create a TipLink wallet on the fly by running `npx gibwallet`",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192443.png",
-      "updated_at": "2025-12-03T11:59:30-08:00",
-      "created_at": "2022-03-01T20:40:00-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2022-03-01T20:40:00-08:00",
+      "repo_url": "https://www.npmjs.com/package/gibwallet"
     },
     {
       "path": "projects/jobs-board.md",
       "title": "Jobs Board",
       "paragraph": "Developed jobs board with AI candidate screening and external integrations. ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191155.png",
-      "updated_at": "2025-12-02T19:58:49-08:00",
-      "created_at": "2025-12-02T19:58:49-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2025-10-01T20:40:00-08:00",
+      "app_url": "https://jobs.cyfrin.io"
     },
     {
       "path": "projects/matr-bot.md",
@@ -210,8 +224,9 @@
       "title": "On-Chain User Profiles",
       "paragraph": "A user profiles protocol stored on Arweave, verified on Solana via compressed NFTs.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121607.png",
-      "updated_at": "2025-12-03T12:22:54-08:00",
-      "created_at": "2025-12-02T21:13:33-08:00"
+      "updated_at": "2025-12-03T12:34:34-08:00",
+      "created_at": "2025-10-01T20:40:00-08:00",
+      "repo_url": "https://github.com/qudo-code/eternal-users-protocol"
     },
     {
       "path": "projects/opos-outliers.md",

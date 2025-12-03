@@ -1,6 +1,6 @@
 
 # Svelte Single File
-https://github.com/qudo-code/template--svelte-single-file
+
 ![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121223.png)
 # ⚡️ Svelte Single File
 Compile a Svelte project to a single index.html file.

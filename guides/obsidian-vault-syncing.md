@@ -1,8 +1,5 @@
 
 # Obsidian Vault Syncing
-https://x.com/_qudo/status/1995982742140723276?s=20
-https://github.com/qudo-code/obsidian-vault-template
-
 I love [@obsdmd](https://x.com/obsdmd) and I just figured out a life changing addition to make my stack even better. I sync my vault to GitHub, but the problem with that is everything can only be 100% private or 100% public. I found a slick way around this so I can use one vault for everything.
 
 ![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202193609.png)
