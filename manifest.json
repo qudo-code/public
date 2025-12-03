@@ -93,9 +93,9 @@
       "image": ""
     },
     {
-      "path": "guides/sveltekit-solona-signin-with-wallet.md",
+      "path": "guides/sveltekit-solana-signin-with-wallet.md",
       "title": "Sveltekit + Solana Wallet Signin",
-      "paragraph": "*This uses an older version of SvelteKit (2022) but the overall patterns should still be useful.*",
+      "paragraph": "Full-stack SvelteKit example project showing \"Sign in With Solana\" patterns. - Use Solana wallet adapter & connect to wallet. - Request time-sensitive message from the backend. - Sign message using wallet. - Verify signature.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202200621.png"
     },
     {
