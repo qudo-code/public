@@ -1,4 +1,85 @@
 {
+  "art": [
+    {
+      "path": "art/8-bit-thinking.md",
+      "title": "8 Bit Thinking",
+      "paragraph": "",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203125338.png",
+      "updated_at": "2025-12-03T14:20:41-08:00",
+      "created_at": "2022-10-25T20:40:00-08:00",
+      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FF645tMisKSa31S2dCcMS_nhFQMFSaZ-EgYWwtvfJbuE%3Fext%3Dgif&width=500&quality=85&format=gif",
+      "external_url": "https://exchange.art/single/7Ls8JBe9wd6jyZ8uMzJQR3sbVYMUf5t4z6fMGyrwR8sK"
+    },
+    {
+      "path": "art/amsterdam-art-walk.md",
+      "title": "Amsterdam Art Walk",
+      "paragraph": "Use the arrow keys to walk through Amsterdam. Click through photos I took while there and interact with certain items.",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203132705.png",
+      "updated_at": "2025-12-03T14:20:41-08:00",
+      "created_at": "2023-11-06T20:40:00-08:00",
+      "external_url": "https://exchange.art/editions/7UHGW8UJ1MS62g1RAdRG1yeGnfDYgXGAeyguwhtHVNCy/activity#editions-tabs"
+    },
+    {
+      "path": "art/bitsweeper.md",
+      "title": "",
+      "paragraph": "",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203124720.png",
+      "updated_at": "2025-12-03T14:20:41-08:00",
+      "created_at": "2022-11-12T20:40:00-08:00",
+      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2Fcj8QU_j5NxpXdfnS4-3R_5UliOgy86lHrpinXrFG2Bk%3Fext%3Dgif&width=350&quality=85&format=gif",
+      "external_url": "https://exchange.art/series/Bitsweeper/nfts"
+    },
+    {
+      "path": "art/game-of-life.md",
+      "title": "Game of Life",
+      "paragraph": "The Game of Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.  ",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203131215.png",
+      "updated_at": "2025-12-03T14:20:41-08:00",
+      "created_at": "2022-11-12T20:40:00-08:00",
+      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FgF7_ULlw0yq_dp5B3DzBOpAyOGQk5B4iLhwatPZ1JRg%3Fext%3Dgif&width=350&quality=85&format=gif",
+      "external_url": "https://exchange.art/editions/6S5bP89Xn2f7zsnxg38a7iCw941vA4HgQuRND6ZdKsjn/activity#editions-tabs"
+    },
+    {
+      "path": "art/photos.exe.md",
+      "title": "Photos.exe",
+      "paragraph": "Moments captured during my trip to NYC.  ",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203132047.png",
+      "updated_at": "2025-12-03T14:20:41-08:00",
+      "created_at": "2023-07-21T20:40:00-08:00",
+      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2Fp8_FHedKVLy7aUSe8pxFh2WHbqArrOW8yvS4sC2d3eA%3Fext%3Dgif&width=350&quality=85&format=gif",
+      "external_url": "https://exchange.art/editions/4vhYF5aWBd5NBLXNpx9gBtNyWUMqt6HKb3ukcMxpLb2y/activity#editions-tabs"
+    },
+    {
+      "path": "art/sleep-work.md",
+      "title": "Sleep Work",
+      "paragraph": "When you think of a fix for that bug while trying to fall asleep.  ",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203125553.png",
+      "updated_at": "2025-12-03T14:20:41-08:00",
+      "created_at": "2022-06-07T20:40:00-08:00",
+      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2Fr9j_yrVwNSZ7G-rUj_CXYWuztgQm03aMlq6zLVC61K4%3Fext%3Dgif&width=350&quality=85&format=gif",
+      "external_url": "https://exchange.art/editions/B9puCoSQnyckDZR7p4RLPHjFLAN2NP7z2xXBu7e1V6fi"
+    },
+    {
+      "path": "art/take-off.md",
+      "title": "Take Off",
+      "paragraph": "Audio systems are go. Lofi playback is confirmed.  ",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203131553.png",
+      "updated_at": "2025-12-03T14:20:41-08:00",
+      "created_at": "2022-11-07T20:40:00-08:00",
+      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FI1GoVBhaFotBh8dIvzrH9RE2M_RT0jOzPgrJ3-tdD8w%3Fext%3Dgif&width=350&quality=85&format=gif",
+      "external_url": "https://exchange.art/editions/Giqy66fzv6wcxuqwpPKqRwDHxfCH8wRXkrgXPMU727eh"
+    },
+    {
+      "path": "art/truth-in-color.md",
+      "title": "Truth in Color",
+      "paragraph": "It takes true values to see the color.",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203130740.png",
+      "updated_at": "2025-12-03T14:20:41-08:00",
+      "created_at": "2022-11-12T20:40:00-08:00",
+      "external_url": "https://exchange.art/editions/7v7jL7W8q2GdQuoHjaJQPRJUXmCUXDrQRSrHPoHgLKsk",
+      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FV2uVO1Zr3bQvjoFKhbkO5F9W0XiH1FJ8Yphu7u3skII%3Fext%3Dgif&width=350&quality=85&format=gif"
+    }
+  ],
   "gists": [
     {
       "path": "gists/33-times-hash.md",
@@ -154,87 +235,6 @@
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165342.png",
       "updated_at": "2025-12-03T11:59:30-08:00",
       "created_at": "2025-03-25T20:40:00-08:00"
-    }
-  ],
-  "nft-art": [
-    {
-      "path": "nft-art/8-bit-thinking.md",
-      "title": "8 Bit Thinking",
-      "paragraph": "",
-      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203125338.png",
-      "updated_at": "2025-12-03T13:49:07-08:00",
-      "created_at": "2022-10-25T20:40:00-08:00",
-      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FF645tMisKSa31S2dCcMS_nhFQMFSaZ-EgYWwtvfJbuE%3Fext%3Dgif&width=500&quality=85&format=gif",
-      "external_url": "https://exchange.art/single/7Ls8JBe9wd6jyZ8uMzJQR3sbVYMUf5t4z6fMGyrwR8sK"
-    },
-    {
-      "path": "nft-art/amsterdam-art-walk.md",
-      "title": "Amsterdam Art Walk",
-      "paragraph": "Use the arrow keys to walk through Amsterdam. Click through photos I took while there and interact with certain items.",
-      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203132705.png",
-      "updated_at": "2025-12-03T13:49:07-08:00",
-      "created_at": "2023-11-06T20:40:00-08:00",
-      "external_url": "https://exchange.art/editions/7UHGW8UJ1MS62g1RAdRG1yeGnfDYgXGAeyguwhtHVNCy/activity#editions-tabs"
-    },
-    {
-      "path": "nft-art/bitsweeper.md",
-      "title": "",
-      "paragraph": "",
-      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203124720.png",
-      "updated_at": "2025-12-03T13:49:07-08:00",
-      "created_at": "2022-11-12T20:40:00-08:00",
-      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2Fcj8QU_j5NxpXdfnS4-3R_5UliOgy86lHrpinXrFG2Bk%3Fext%3Dgif&width=350&quality=85&format=gif",
-      "external_url": "https://exchange.art/series/Bitsweeper/nfts"
-    },
-    {
-      "path": "nft-art/game-of-life.md",
-      "title": "Game of Life",
-      "paragraph": "The Game of Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.  ",
-      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203131215.png",
-      "updated_at": "2025-12-03T13:49:07-08:00",
-      "created_at": "2022-11-12T20:40:00-08:00",
-      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FgF7_ULlw0yq_dp5B3DzBOpAyOGQk5B4iLhwatPZ1JRg%3Fext%3Dgif&width=350&quality=85&format=gif",
-      "external_url": "https://exchange.art/editions/6S5bP89Xn2f7zsnxg38a7iCw941vA4HgQuRND6ZdKsjn/activity#editions-tabs"
-    },
-    {
-      "path": "nft-art/photos.exe.md",
-      "title": "Photos.exe",
-      "paragraph": "Moments captured during my trip to NYC.  ",
-      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203132047.png",
-      "updated_at": "2025-12-03T13:49:07-08:00",
-      "created_at": "2023-07-21T20:40:00-08:00",
-      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2Fp8_FHedKVLy7aUSe8pxFh2WHbqArrOW8yvS4sC2d3eA%3Fext%3Dgif&width=350&quality=85&format=gif",
-      "external_url": "https://exchange.art/editions/4vhYF5aWBd5NBLXNpx9gBtNyWUMqt6HKb3ukcMxpLb2y/activity#editions-tabs"
-    },
-    {
-      "path": "nft-art/sleep-work.md",
-      "title": "Sleep Work",
-      "paragraph": "When you think of a fix for that bug while trying to fall asleep.  ",
-      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203125553.png",
-      "updated_at": "2025-12-03T13:49:07-08:00",
-      "created_at": "2022-06-07T20:40:00-08:00",
-      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2Fr9j_yrVwNSZ7G-rUj_CXYWuztgQm03aMlq6zLVC61K4%3Fext%3Dgif&width=350&quality=85&format=gif",
-      "external_url": "https://exchange.art/editions/B9puCoSQnyckDZR7p4RLPHjFLAN2NP7z2xXBu7e1V6fi"
-    },
-    {
-      "path": "nft-art/take-off.md",
-      "title": "Take Off",
-      "paragraph": "Audio systems are go. Lofi playback is confirmed.  ",
-      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203131553.png",
-      "updated_at": "2025-12-03T13:49:07-08:00",
-      "created_at": "2022-11-07T20:40:00-08:00",
-      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FI1GoVBhaFotBh8dIvzrH9RE2M_RT0jOzPgrJ3-tdD8w%3Fext%3Dgif&width=350&quality=85&format=gif",
-      "external_url": "https://exchange.art/editions/Giqy66fzv6wcxuqwpPKqRwDHxfCH8wRXkrgXPMU727eh"
-    },
-    {
-      "path": "nft-art/truth-in-color.md",
-      "title": "Truth in Color",
-      "paragraph": "It takes true values to see the color.",
-      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203130740.png",
-      "updated_at": "2025-12-03T13:49:07-08:00",
-      "created_at": "2022-11-12T20:40:00-08:00",
-      "external_url": "https://exchange.art/editions/7v7jL7W8q2GdQuoHjaJQPRJUXmCUXDrQRSrHPoHgLKsk",
-      "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FV2uVO1Zr3bQvjoFKhbkO5F9W0XiH1FJ8Yphu7u3skII%3Fext%3Dgif&width=350&quality=85&format=gif"
     }
   ],
   "projects": [
