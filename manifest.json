@@ -5,72 +5,72 @@
       "title": "33 Times Hash",
       "paragraph": "This is Daniel J. Bernstein's popular 'times 33' hash function ",
       "image": "",
-      "created_at": "2025-02-01T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:06:34-08:00"
+      "updated_at": "2025-12-03T12:06:34-08:00",
+      "created_at": "2025-02-01T20:40:00-08:00"
     },
     {
       "path": "gists/calc-merkle-tree-size.md",
       "title": "Calc Merkle Tree Size",
       "paragraph": "Utility for calculating merkle tree size config when setting up a Solana compressed NFT project. ",
       "image": "",
-      "created_at": "2023-6-6T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:06:34-08:00"
+      "updated_at": "2025-12-03T12:06:34-08:00",
+      "created_at": "2023-6-6T20:40:00-08:00"
     },
     {
       "path": "gists/encryptor.md",
       "title": "Encryptor",
       "paragraph": "Class for handling encrypting/decrypting strings.",
       "image": "",
-      "created_at": "2025-01-01T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:06:34-08:00"
+      "updated_at": "2025-12-03T12:06:34-08:00",
+      "created_at": "2025-01-01T20:40:00-08:00"
     },
     {
       "path": "gists/irys-in-sveltekit.md",
       "title": "Irys in SvelteKit",
       "paragraph": "Upload files on-chain using Irys and Sveltekit.",
       "image": "",
-      "created_at": "2025-01-01T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:06:34-08:00"
+      "updated_at": "2025-12-03T12:06:34-08:00",
+      "created_at": "2025-01-01T20:40:00-08:00"
     },
     {
       "path": "gists/otp.md",
       "title": "OTP",
       "paragraph": "Utility for implementing and verifying OTPs. ",
       "image": "",
-      "created_at": "2025-01-01T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:06:34-08:00"
+      "updated_at": "2025-12-03T12:06:34-08:00",
+      "created_at": "2025-01-01T20:40:00-08:00"
     },
     {
       "path": "gists/react-fetchable.md",
       "title": "React Fetchable",
       "paragraph": "Typed request handler for React that manages its own state.",
       "image": "",
-      "created_at": "2023-5-2T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:06:34-08:00"
+      "updated_at": "2025-12-03T12:06:34-08:00",
+      "created_at": "2023-5-2T20:40:00-08:00"
     },
     {
       "path": "gists/sveltekit-auth.md",
       "title": "Sveltekit OAuth + Session Validation",
       "paragraph": "OAuth and session management patterns for SvelteKit.",
       "image": "",
-      "created_at": "2025-3-1T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:06:34-08:00"
+      "updated_at": "2025-12-03T12:06:34-08:00",
+      "created_at": "2025-3-1T20:40:00-08:00"
     },
     {
       "path": "gists/sveltekit-eth-wallet-connect.md",
       "title": "Sveltekit  + Eth Wallet Connect",
       "paragraph": "Add \"Connect Ethereum Wallet\" to a SvelteKit app. ",
       "image": "",
-      "created_at": "2024-11-12T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:06:34-08:00"
+      "updated_at": "2025-12-03T12:06:34-08:00",
+      "created_at": "2024-11-12T20:40:00-08:00"
     },
     {
       "path": "gists/upload-folder-to-irys.md",
       "title": "Upload Folder to Irys",
       "paragraph": "Script for uploading a directory on-chain using Irys.",
       "image": "",
-      "created_at": "2022-01-01T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:06:34-08:00"
+      "updated_at": "2025-12-03T12:06:34-08:00",
+      "created_at": "2022-01-01T20:40:00-08:00"
     }
   ],
   "guides": [
@@ -79,64 +79,65 @@
       "title": "Computer Setup",
       "paragraph": "I've added a config pattern and CLI for detecting the current OS and syncing configs based on the environment.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164036.png",
+      "updated_at": "2025-12-03T12:22:54-08:00",
       "created_at": "2025-03-2T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "repo_url": "https://github.com/qudo-code/dots"
     },
     {
       "path": "guides/docker.md",
       "title": "Docker",
       "paragraph": "Docker at its core is a tool for organizing virtual machines. In this guide I go over how I use it for developing and hosting all my projects.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165028.png",
-      "created_at": "2025-03-17T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2025-03-17T20:40:00-08:00"
     },
     {
       "path": "guides/intro-to-leptos.md",
       "title": "Intro to Leptos",
       "paragraph": "I am new to this framework and Rust so DYOR, what do I know. But, I've experimented with a lot of state shapes in web dev using meta frameworks like SvelteKit and lately the closest thing to what I've wanted is tRPC + Tanstack Query + tRPC/Tanstack Adapter.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202194805.png",
-      "created_at": "2023-03-21T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2023-03-21T20:40:00-08:00"
     },
     {
       "path": "guides/obsidian-vault-syncing.md",
       "title": "Obsidian Vault Syncing",
       "paragraph": "I love [@obsdmd](https://x.com/obsdmd) and I just figured out a life changing addition to make my stack even better. I sync my vault to GitHub, but the problem with that is everything can only be 100% private or 100% public. I found a slick way around this so I can use one vault for everything.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202193609.png",
-      "created_at": "2025-12-02T20:40:00-08:00",
-      "updated_at": "2025-12-03T12:01:45-08:00"
+      "updated_at": "2025-12-03T12:01:45-08:00",
+      "created_at": "2025-12-02T20:40:00-08:00"
     },
     {
       "path": "guides/svelte-cloudflare-worker.md",
       "title": "Svelte Cloudflare Worker",
       "paragraph": "A super small Svelte app with a companion Cloudflare worker as a backend when you need it. It's kinda like Sveltekit, but more modular and less guided.",
       "image": "",
-      "created_at": "2023-06-28T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2023-06-28T20:40:00-08:00"
     },
     {
       "path": "guides/svelte-single-file.md",
       "title": "Svelte Single File",
       "paragraph": "Compile a Svelte project to a single index.html file.",
-      "image": "",
-      "created_at": "2023-04-23T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121223.png",
+      "updated_at": "2025-12-03T12:22:54-08:00",
+      "created_at": "2023-04-23T20:40:00-08:00"
     },
     {
       "path": "guides/sveltekit-solana-signin-with-wallet.md",
       "title": "Sveltekit + Solana Wallet Signin",
       "paragraph": "Full-stack SvelteKit example project showing \"Sign in With Solana\" patterns. - Use Solana wallet adapter & connect to wallet. - Request time-sensitive message from the backend. - Sign message using wallet. - Verify signature.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202200621.png",
-      "created_at": "2022-12-02T20:42:22-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2022-12-02T20:42:22-08:00"
     },
     {
       "path": "guides/upload-files-onchain-using-irys.md",
       "title": "Upload Files On-Chain Using Irys",
       "paragraph": "In this guide, we will learn how to upload files on-chain using Solana, Irys, and TypeScript.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165342.png",
-      "created_at": "2025-03-25T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2025-03-25T20:40:00-08:00"
     }
   ],
   "projects": [
@@ -145,120 +146,120 @@
       "title": "XRAY Explorer",
       "paragraph": "Human-readable Solana blockchain explorer built with SvelteKit. Built for Grizzlython hackathon.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191343.png",
-      "created_at": "2022-06-02T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2022-06-02T20:40:00-08:00"
     },
     {
       "path": "projects/calculate-merkle-tree-cli.md",
       "title": "Calculate Merkle Tree Size CLI",
       "paragraph": "Calculate Merkle Tree For example, run \"npx cnfts calculate 8\" to view tree configs that work with max proof 8.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192550.png",
-      "created_at": "2022-03-01T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
       "path": "projects/compressed-bananas.md",
       "title": "Compressed Bananas",
       "paragraph": "A free cNFT dispenser in celebration of NYC Solana Hacker House and presented on demo day.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191539.png",
-      "created_at": "2023-06-11T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2023-06-11T20:40:00-08:00"
     },
     {
       "path": "projects/dedoc.md",
       "title": "Dedoc",
       "paragraph": "Decentralized on-chain documentation suitable for any project. Content is stored for eternity on Arweave and verified on Solana using Metaplex cNFTs. Users are their own creators and own 100% of their data.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202181752.png",
-      "created_at": "2024-02-29T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2024-02-29T20:40:00-08:00"
     },
     {
       "path": "projects/devnet-directory.md",
       "title": "Devnet Directory",
       "paragraph": "On-chain directory of Solana developers.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202210603.png",
-      "created_at": "2024-01-05T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2024-01-05T20:40:00-08:00"
     },
     {
       "path": "projects/gibwallet-cli.md",
       "title": "Gibwallet CLI",
       "paragraph": "Create a TipLink wallet on the fly by running `npx gibwallet`",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192443.png",
-      "created_at": "2022-03-01T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T11:59:30-08:00",
+      "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
       "path": "projects/jobs-board.md",
       "title": "Jobs Board",
       "paragraph": "Developed jobs board with AI candidate screening and external integrations. ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191155.png",
-      "created_at": "2025-12-02T19:58:49-08:00",
-      "updated_at": "2025-12-02T19:58:49-08:00"
+      "updated_at": "2025-12-02T19:58:49-08:00",
+      "created_at": "2025-12-02T19:58:49-08:00"
     },
     {
       "path": "projects/matr-bot.md",
       "title": "Matr Bot",
       "paragraph": "A Discord bot developed for The 76 Devs community. The bot supports tracking the price of solana, verifying users, and distributing devnet SOL to those who request it by running `!gibsol`.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202201711.png",
-      "created_at": "2025-12-02T20:18:37-08:00",
-      "updated_at": "2025-12-02T20:18:50-08:00"
+      "updated_at": "2025-12-02T20:18:50-08:00",
+      "created_at": "2025-12-02T20:18:37-08:00"
     },
     {
       "path": "projects/on-chain-user-profiles.md",
       "title": "On-Chain User Profiles",
       "paragraph": "A user profiles protocol stored on Arweave, verified on Solana via compressed NFTs.",
-      "image": "",
-      "created_at": "2025-12-02T21:13:33-08:00",
-      "updated_at": "2025-12-02T21:13:33-08:00"
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121607.png",
+      "updated_at": "2025-12-03T12:22:54-08:00",
+      "created_at": "2025-12-02T21:13:33-08:00"
     },
     {
       "path": "projects/opos-outliers.md",
       "title": "OPOS Outliers",
       "paragraph": "Mint a compressed NFT for free without a wallet using Solana and TipLink. Users are able to design an \"OPOS Outlier\" and mint it as a cNFT via Gmail-based claiming. The art and attributes were created by Web3 artists and brands.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202175702.png",
-      "created_at": "2025-12-02T19:03:38-08:00",
-      "updated_at": "2025-12-02T19:58:49-08:00"
+      "updated_at": "2025-12-02T19:58:49-08:00",
+      "created_at": "2025-12-02T19:03:38-08:00"
     },
     {
       "path": "projects/sketchy-wallet.md",
       "title": "Sketchy Wallet",
       "paragraph": "Generate a Solana wallet and email the credentials to someone. Perfect for those times when you need a one off wallet with keys auto backed up. I used this for making a wallet for my toddler so I can send him NFTs.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192403.png",
-      "created_at": "2025-12-02T19:58:49-08:00",
-      "updated_at": "2025-12-02T19:58:49-08:00"
+      "updated_at": "2025-12-02T19:58:49-08:00",
+      "created_at": "2025-12-02T19:58:49-08:00"
     },
     {
       "path": "projects/solana-terminal.md",
       "title": "Solana Terminal ",
       "paragraph": "Solana Terminal, an NFT explorer and utilities. Link your wallet and Discord, listen to music NFTs, render HTML NFTs, view your artwork, query NFTs by creator and more.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191434.png",
-      "created_at": "2025-12-02T19:58:49-08:00",
-      "updated_at": "2025-12-02T19:58:49-08:00"
+      "updated_at": "2025-12-02T19:58:49-08:00",
+      "created_at": "2025-12-02T19:58:49-08:00"
     },
     {
       "path": "projects/state-machine-snacks.md",
       "title": "State Machine Snacks",
       "paragraph": "A framework built on [XState](https://xstate.js.org/docs/about/concepts.html) that provides bite sized snacks for developing with state machine machines. 🍕 aims to increase state machine adoption in modern day web apps by providing a suite of tools and plugins to inspire development and new ways of thinking.",
-      "image": "",
-      "created_at": "2025-12-02T20:59:45-08:00",
-      "updated_at": "2025-12-03T11:07:59-08:00"
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121818.png",
+      "updated_at": "2025-12-03T12:22:54-08:00",
+      "created_at": "2025-12-02T20:59:45-08:00"
     },
     {
       "path": "projects/the-76-devs.md",
       "title": "The 76 Devs",
       "paragraph": "Created a Discord community where developers can ask questions and share what they're working on during our live show n tells. We have ~3k+ members in Discord and 1.5k+ on Twitter. ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202210052.png",
-      "created_at": "2025-12-02T21:09:52-08:00",
-      "updated_at": "2025-12-02T21:09:52-08:00"
+      "updated_at": "2025-12-02T21:09:52-08:00",
+      "created_at": "2025-12-02T21:09:52-08:00"
     },
     {
       "path": "projects/user-profiles.md",
       "title": "User Profiles",
       "paragraph": "Lead development of cross-app authentication and user profiles that supported 150k accounts.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202205205.png",
-      "created_at": "2025-12-02T19:03:38-08:00",
-      "updated_at": "2025-12-02T20:52:11-08:00"
+      "updated_at": "2025-12-02T20:52:11-08:00",
+      "created_at": "2025-12-02T19:03:38-08:00"
     }
   ]
 }

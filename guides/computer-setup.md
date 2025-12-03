@@ -47,5 +47,3 @@ Command: Help
 ~/dots install
 ~/dots i
 ```
-
-[View Repo](https://github.com/qudo-code/dots)
