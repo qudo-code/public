@@ -2,91 +2,91 @@
   {
     "path": "gists/33-times-hash.md",
     "title": "33 Times Hash",
-    "paragraph": "```ts",
+    "paragraph": "",
     "image": ""
   },
   {
     "path": "gists/calc-merkle-tree-size.md",
     "title": "Calc Merkle Tree Size",
-    "paragraph": "```ts",
+    "paragraph": "",
     "image": ""
   },
   {
     "path": "gists/encryptor.md",
     "title": "Encryptor",
-    "paragraph": "```ts",
+    "paragraph": "",
     "image": ""
   },
   {
     "path": "gists/irys-in-sveltekit.md",
     "title": "Irys in SvelteKit",
-    "paragraph": "`+layout.svelte`",
+    "paragraph": "",
     "image": ""
   },
   {
     "path": "gists/otp.md",
     "title": "OTP",
-    "paragraph": "```ts",
+    "paragraph": "",
     "image": ""
   },
   {
     "path": "gists/react-fetchable.md",
     "title": "React Fetchable",
-    "paragraph": "```tsx",
+    "paragraph": "",
     "image": ""
   },
   {
     "path": "gists/sveltekit-auth.md",
     "title": "Sveltekit OAuth + Session Validation",
-    "paragraph": "`auth.ts`",
+    "paragraph": "",
     "image": ""
   },
   {
     "path": "gists/sveltekit-eth-wallet-connect.md",
     "title": "Sveltekit  + Eth Wallet Connect",
-    "paragraph": "`+layout.svelte`",
+    "paragraph": "",
     "image": ""
   },
   {
     "path": "gists/upload-folder-to-irys.md",
     "title": "Upload Folder to Irys",
-    "paragraph": "```ts",
+    "paragraph": "",
     "image": ""
   },
   {
     "path": "guides/computer-setup.md",
     "title": "Computer Setup",
-    "paragraph": "![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164036.png)",
+    "paragraph": "#### MacOS w/Aerospace",
     "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164036.png"
   },
   {
     "path": "guides/docker.md",
     "title": "Docker",
-    "paragraph": "![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165028.png)",
+    "paragraph": "Docker at its core is a tool for organizing virtual machines. In this guide I go over how I use it for developing and hosting all my projects.",
     "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165028.png"
   },
   {
     "path": "guides/intro-to-leptos.md",
     "title": "Intro to Leptos",
-    "paragraph": "https://x.com/_qudo/status/1638193893580869632",
+    "paragraph": "gm, this week I've been learning Rust. As I've been learning this from a web devs perspective, I've been eager to find cool web use cases for Rust. I looked at a couple Rust/WASM frameworks and this one stood out. Here's what I've learned so far...",
     "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202194805.png"
   },
   {
     "path": "guides/obsidian-vault-syncing.md",
     "title": "Obsidian Vault Syncing",
-    "paragraph": "https://x.com/_qudo/status/1995982742140723276?s=20",
+    "paragraph": "I love [@obsdmd](https://x.com/obsdmd)and I just figured out a life changing addition to make my stack even better. I sync my vault to GitHub, but the problem with that is everything can only be 100% private or 100% public. I found a slick way around this so I can use one vault for everything.",
     "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202193609.png"
   },
   {
     "path": "guides/svelte-cloudflare-worker.md",
     "title": "Svelte Cloudflare Worker",
-    "paragraph": "https://github.com/the76devs/template--smol-svelte-cloudflare-worker",
+    "paragraph": "A super small Svelte app with a companion Cloudflare worker as a backend when you need it. It's kinda like Sveltekit, but more modular and less guided.",
     "image": ""
   },
   {
     "path": "guides/svelte-single-file.md",
     "title": "Svelte Single File",
-    "paragraph": "https://github.com/qudo-code/template--svelte-single-file",
+    "paragraph": "Compile a Svelte project to a single index.html file.",
     "image": ""
   },
   {
@@ -98,7 +98,7 @@
   {
     "path": "guides/upload-files-onchain-using-irys.md",
     "title": "Upload Files On-Chain Using Irys",
-    "paragraph": "![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165342.png)",
+    "paragraph": "In this guide, we will learn how to upload files on-chain using Solana, Irys, and TypeScript.",
     "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165342.png"
   },
   {
@@ -122,13 +122,13 @@
   {
     "path": "projects/dedoc.md",
     "title": "Dedoc",
-    "paragraph": "https://x.com/_qudo/status/1763217628120908047?s=20",
+    "paragraph": "Decentralized on-chain documentation suitable for any project. Content is stored for eternity on Arweave and verified on Solana using Metaplex cNFTs. Users are their own creators and own 100% of their data.",
     "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202181752.png"
   },
   {
     "path": "projects/devnet-directory.md",
     "title": "Devnet Directory",
-    "paragraph": "https://x.com/the76devs/status/1743389412644577677?s=20",
+    "paragraph": "On-chain directory of Solana developers.",
     "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202210603.png"
   },
   {
@@ -176,7 +176,7 @@
   {
     "path": "projects/state-machine-snacks.md",
     "title": "State Machine Snacks",
-    "paragraph": "https://github.com/qudo-code/state-machine-snacks",
+    "paragraph": "⚠️ A POC, not actively maintained.",
     "image": ""
   },
   {
