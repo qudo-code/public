@@ -92,6 +92,16 @@
       "created_at": "2025-03-17T20:40:00-08:00"
     },
     {
+      "path": "guides/html-nft-art-on-solana.md",
+      "title": "HTML NFT Art on Solana",
+      "paragraph": "I figured out how to make an interactive HTML NFT game that's playable on [@exchgART](https://x.com/exchgART). Here's what I learned and how you can build one too!",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203133842.png",
+      "updated_at": "2025-12-03T13:48:30-08:00",
+      "created_at": "2022-10-030T20:40:00-08:00",
+      "x_url": "https://x.com/_qudo/status/1586860095841128449?s=20",
+      "app_url": ""
+    },
+    {
       "path": "guides/intro-to-leptos.md",
       "title": "Intro to Leptos",
       "paragraph": "I am new to this framework and Rust so DYOR, what do I know. But, I've experimented with a lot of state shapes in web dev using meta frameworks like SvelteKit and lately the closest thing to what I've wanted is tRPC + Tanstack Query + tRPC/Tanstack Adapter.",
