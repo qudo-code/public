@@ -1,5 +1,5 @@
 # User Profiles
-Lead development of cross-app authentication and profiles that supported over 100k users.
+Lead development of cross-app authentication and user profiles that supported 150k accounts.
 https://profiles.cyfrin.io
 ![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202180721.png)
 ![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202180842.png)
