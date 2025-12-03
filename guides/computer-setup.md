@@ -1,9 +1,9 @@
 # Computer Setup
-![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/public/media/Pasted%20image%2020251202164036.png)
+![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164036.png)
 #### MacOS w/Aerospace
-![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/public/media/Pasted%20image%2020251202164159.png)
+![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164159.png)
 #### NixOS w/Hyprland
-![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/public/media/Pasted%20image%2020251202164227.png)
+![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164227.png)
 ## Setup `dots` CLI
 
 I've added a config pattern and CLI for detecting the current OS and syncing configs based on the environment.
