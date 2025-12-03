@@ -101,10 +101,10 @@
     {
       "path": "guides/obsidian-vault-syncing.md",
       "title": "Obsidian Vault Syncing",
-      "paragraph": "I love [@obsdmd](https://x.com/obsdmd)and I just figured out a life changing addition to make my stack even better. I sync my vault to GitHub, but the problem with that is everything can only be 100% private or 100% public. I found a slick way around this so I can use one vault for everything.",
+      "paragraph": "I love [@obsdmd](https://x.com/obsdmd) and I just figured out a life changing addition to make my stack even better. I sync my vault to GitHub, but the problem with that is everything can only be 100% private or 100% public. I found a slick way around this so I can use one vault for everything.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202193609.png",
       "created_at": "2025-12-02T20:40:00-08:00",
-      "updated_at": "2025-12-03T11:59:30-08:00"
+      "updated_at": "2025-12-03T12:01:45-08:00"
     },
     {
       "path": "guides/svelte-cloudflare-worker.md",
