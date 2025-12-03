@@ -1,0 +1,194 @@
+[
+  {
+    "path": "gists/33-times-hash.md",
+    "title": "33 Times Hash",
+    "paragraph": "```ts",
+    "image": ""
+  },
+  {
+    "path": "gists/calc-merkle-tree-size.md",
+    "title": "Calc Merkle Tree Size",
+    "paragraph": "```ts",
+    "image": ""
+  },
+  {
+    "path": "gists/encryptor.md",
+    "title": "Encryptor",
+    "paragraph": "```ts",
+    "image": ""
+  },
+  {
+    "path": "gists/irys-in-sveltekit.md",
+    "title": "Irys in SvelteKit",
+    "paragraph": "`+layout.svelte`",
+    "image": ""
+  },
+  {
+    "path": "gists/otp.md",
+    "title": "OTP",
+    "paragraph": "```ts",
+    "image": ""
+  },
+  {
+    "path": "gists/react-fetchable.md",
+    "title": "React Fetchable",
+    "paragraph": "```tsx",
+    "image": ""
+  },
+  {
+    "path": "gists/sveltekit-auth.md",
+    "title": "Sveltekit OAuth + Session Validation",
+    "paragraph": "`auth.ts`",
+    "image": ""
+  },
+  {
+    "path": "gists/sveltekit-eth-wallet-connect.md",
+    "title": "Sveltekit  + Eth Wallet Connect",
+    "paragraph": "`+layout.svelte`",
+    "image": ""
+  },
+  {
+    "path": "gists/upload-folder-to-irys.md",
+    "title": "Upload Folder to Irys",
+    "paragraph": "```ts",
+    "image": ""
+  },
+  {
+    "path": "guides/computer-setup.md",
+    "title": "Computer Setup",
+    "paragraph": "![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164036.png)",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164036.png"
+  },
+  {
+    "path": "guides/docker.md",
+    "title": "Docker",
+    "paragraph": "![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165028.png)",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165028.png"
+  },
+  {
+    "path": "guides/intro-to-leptos.md",
+    "title": "Intro to Leptos",
+    "paragraph": "https://x.com/_qudo/status/1638193893580869632",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202194805.png"
+  },
+  {
+    "path": "guides/obsidian-vault-syncing.md",
+    "title": "Obsidian Vault Syncing",
+    "paragraph": "https://x.com/_qudo/status/1995982742140723276?s=20",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202193609.png"
+  },
+  {
+    "path": "guides/svelte-cloudflare-worker.md",
+    "title": "Svelte Cloudflare Worker",
+    "paragraph": "https://github.com/the76devs/template--smol-svelte-cloudflare-worker",
+    "image": ""
+  },
+  {
+    "path": "guides/svelte-single-file.md",
+    "title": "Svelte Single File",
+    "paragraph": "https://github.com/qudo-code/template--svelte-single-file",
+    "image": ""
+  },
+  {
+    "path": "guides/sveltekit-solona-signin-with-wallet.md",
+    "title": "Sveltekit + Solana Wallet Signin",
+    "paragraph": "*This uses an older version of SvelteKit (2022) but the overall patterns should still be useful.*",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202200621.png"
+  },
+  {
+    "path": "guides/upload-files-onchain-using-irys.md",
+    "title": "Upload Files On-Chain Using Irys",
+    "paragraph": "![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165342.png)",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165342.png"
+  },
+  {
+    "path": "projects/blockchain-explorer.md",
+    "title": "XRAY Explorer",
+    "paragraph": "Human-readable Solana blockchain explorer built with SvelteKit. Built for Grizzlython hackathon.",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191343.png"
+  },
+  {
+    "path": "projects/calculate-merkle-tree-cli.md",
+    "title": "Calculate Merkle Tree Size CLI",
+    "paragraph": "Calculate Merkle Tree For example, run \"npx cnfts calculate 8\" to view tree configs that work with max proof 8.",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192550.png"
+  },
+  {
+    "path": "projects/compressed-bananas.md",
+    "title": "Compressed Bananas",
+    "paragraph": "A free cNFT dispenser in celebration of NYC Solana Hacker House and presented on demo day.",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191539.png"
+  },
+  {
+    "path": "projects/dedoc.md",
+    "title": "Dedoc",
+    "paragraph": "https://x.com/_qudo/status/1763217628120908047?s=20",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202181752.png"
+  },
+  {
+    "path": "projects/devnet-directory.md",
+    "title": "Devnet Directory",
+    "paragraph": "https://x.com/the76devs/status/1743389412644577677?s=20",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202210603.png"
+  },
+  {
+    "path": "projects/gibwallet-cli.md",
+    "title": "Gibwallet CLI",
+    "paragraph": "Create a TipLink wallet on the fly by running `npx gibwallet`",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192443.png"
+  },
+  {
+    "path": "projects/jobs-board.md",
+    "title": "Jobs Board",
+    "paragraph": "Developed jobs board with AI candidate screening and external integrations. ",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191155.png"
+  },
+  {
+    "path": "projects/matr-bot.md",
+    "title": "Matr Bot",
+    "paragraph": "A Discord bot developed for The 76 Devs community. The bot supports tracking the price of solana, verifying users, and distributing devnet SOL to those who request it by running `!gibsol`.",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202201711.png"
+  },
+  {
+    "path": "projects/on-chain-user-profiles.md",
+    "title": "On-Chain User Profiles",
+    "paragraph": "A user profiles protocol stored on Arweave, verified on Solana via compressed NFTs.",
+    "image": ""
+  },
+  {
+    "path": "projects/opos-outliers.md",
+    "title": "OPOS Outliers",
+    "paragraph": "Mint a compressed NFT for free without a wallet using Solana and TipLink. Users are able to design an \"OPOS Outlier\" and mint it as a cNFT via Gmail-based claiming. The art and attributes were created by Web3 artists and brands.",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202175702.png"
+  },
+  {
+    "path": "projects/sketchy-wallet.md",
+    "title": "Sketchy Wallet",
+    "paragraph": "Generate a Solana wallet and email the credentials to someone. Perfect for those times when you need a one off wallet with keys auto backed up. I used this for making a wallet for my toddler so I can send him NFTs.",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192403.png"
+  },
+  {
+    "path": "projects/solana-terminal.md",
+    "title": "Solana Terminal ",
+    "paragraph": "Solana Terminal, an NFT explorer and utilities. Link your wallet and Discord, listen to music NFTs, render HTML NFTs, view your artwork, query NFTs by creator and more.",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191434.png"
+  },
+  {
+    "path": "projects/state-machine-snacks.md",
+    "title": "State Machine Snacks",
+    "paragraph": "https://github.com/qudo-code/state-machine-snacks",
+    "image": ""
+  },
+  {
+    "path": "projects/the-76-devs.md",
+    "title": "The 76 Devs",
+    "paragraph": "Created a Discord community where developers can ask questions and share what they're working on during our live show n tells. We have ~3k+ members in Discord and 1.5k+ on Twitter. ",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202210052.png"
+  },
+  {
+    "path": "projects/user-profiles.md",
+    "title": "User Profiles",
+    "paragraph": "Lead development of cross-app authentication and user profiles that supported 150k accounts.",
+    "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202205205.png"
+  }
+]
