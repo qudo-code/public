@@ -2,7 +2,7 @@
 # Irys in SvelteKit
 Upload files on-chain using Irys and Sveltekit.
 `+layout.svelte`
-```ts
+```html
 <script lang="ts">
     import {
       WalletModal,
