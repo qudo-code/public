@@ -6,31 +6,30 @@ Full stack web developer and designer. Experience in leading development teams a
 
 ## Experience
 
-### Senior Full Stack Developer, ---
+### Senior Full Stack Developer, ___
 
 Web3 authentication and security | February 2024 - December 2025
 
 
-### Senior Full Stack Developer, ---
+### Senior Full Stack Developer, ___
 
 Trust & Safety team | June 2020 - March 2023
 
 ---
 
-### UI Developer (c), ---
+### UI Developer (c), ___
 
 AAA game development | December 2019 - June 2020
 
 ---
 
-### Front End Developer , --- ---
+### Front End Developer , ___
 
 Product pages and 3D experiences | June 2018 - December 2019
 
 ---
 
-### Front End Developer, --- --- ---
-
+### Front End Developer, ___
 HIPAA compliant messaging and file sharing | December 2017 - June 2018
 
 ---
