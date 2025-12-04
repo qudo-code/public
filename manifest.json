@@ -332,12 +332,12 @@
       "type": "guide",
       "path": "guide/upload-files-onchain-using-irys.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guide/upload-files-onchain-using-irys.md",
-      "title": "Upload Files On-Chain Using Irys",
+      "title": "Upload Files On-Chain",
       "description": "In this guide, we will learn how to upload files on-chain using Solana, Irys, and TypeScript.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165342.png",
       "code_preview": "curl -fsSL https://bun.sh/install | bash",
       "code_lang": "bash",
-      "updated_at": "2025-12-03T16:54:02-08:00",
+      "updated_at": "2025-12-03T20:12:24-08:00",
       "created_at": "2025-03-25T20:40:00-08:00"
     }
   ],

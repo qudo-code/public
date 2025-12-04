@@ -1,5 +1,5 @@
 
-# Upload Files On-Chain Using Irys
+# Upload Files On-Chain
 ![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165342.png)
 In this guide, we will learn how to upload files on-chain using Solana, Irys, and TypeScript.
 - [Solana](https://solana.com/): A fast and cheap decentralized blockchain for payments.
