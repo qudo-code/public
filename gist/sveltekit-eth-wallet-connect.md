@@ -1,5 +1,5 @@
 
-# Sveltekit  + Eth Wallet Connect
+# Connect Eth Wallet
 Add "Connect Ethereum Wallet" to a SvelteKit app. 
 `+layout.svelte`
 ```html

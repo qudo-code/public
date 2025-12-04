@@ -201,12 +201,12 @@
       "type": "gist",
       "path": "gist/sveltekit-eth-wallet-connect.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gist/sveltekit-eth-wallet-connect.md",
-      "title": "Sveltekit  + Eth Wallet Connect",
+      "title": "Connect Eth Wallet",
       "description": "Add \"Connect Ethereum Wallet\" to a SvelteKit app. ",
       "image": "",
       "code_preview": "<script lang=\"ts\">\n\timport { onMount } from 'svelte';\n\timport { init } from '$lib/wagmi';\n\n\tonMount(init);\n</script>\n\n<s",
       "code_lang": "html",
-      "updated_at": "2025-12-03T16:54:02-08:00",
+      "updated_at": "2025-12-03T20:10:12-08:00",
       "created_at": "2024-11-12T20:40:00-08:00"
     },
     {
