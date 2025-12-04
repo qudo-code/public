@@ -10,6 +10,7 @@ Full stack web developer and designer. Experience in leading development teams a
 
 Web3 authentication and security | February 2024 - December 2025
 
+
 ### Senior Full Stack Developer, ---
 
 Trust & Safety team | June 2020 - March 2023
@@ -33,6 +34,7 @@ Product pages and 3D experiences | June 2018 - December 2019
 HIPAA compliant messaging and file sharing | December 2017 - June 2018
 
 ---
+
 ## Skills
 
 - **UI:** Svelte, Vue, React, Tailwind, Shadcn
