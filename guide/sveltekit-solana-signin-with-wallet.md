@@ -1,5 +1,5 @@
 
-# Sveltekit + Solana Wallet Signin
+# Signin w/Solana
 
 Full-stack SvelteKit example project showing "Sign in With Solana" patterns. - Use Solana wallet adapter & connect to wallet. - Request time-sensitive message from the backend. - Sign message using wallet. - Verify signature.
 
