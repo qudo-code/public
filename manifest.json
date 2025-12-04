@@ -1,7 +1,7 @@
 {
-  "art": [
+  "https:": [
     {
-      "path": "art/8-bit-thinking.md",
+      "path": "",
       "title": "8 Bit Thinking",
       "paragraph": "",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203125338.png",
@@ -11,7 +11,7 @@
       "external_url": "https://exchange.art/single/7Ls8JBe9wd6jyZ8uMzJQR3sbVYMUf5t4z6fMGyrwR8sK"
     },
     {
-      "path": "art/amsterdam-art-walk.md",
+      "path": "",
       "title": "Amsterdam Art Walk",
       "paragraph": "Use the arrow keys to walk through Amsterdam. Click through photos I took while there and interact with certain items.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203132705.png",
@@ -20,7 +20,7 @@
       "external_url": "https://exchange.art/editions/7UHGW8UJ1MS62g1RAdRG1yeGnfDYgXGAeyguwhtHVNCy/activity#editions-tabs"
     },
     {
-      "path": "art/bitsweeper.md",
+      "path": "",
       "title": "Bitsweeper",
       "paragraph": "A minesweeper like game in an NFT. Available to play on ExchangeArt.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203124720.png",
@@ -30,7 +30,7 @@
       "external_url": "https://exchange.art/series/Bitsweeper/nfts"
     },
     {
-      "path": "art/game-of-life.md",
+      "path": "",
       "title": "Game of Life",
       "paragraph": "The Game of Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.  ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203131215.png",
@@ -40,7 +40,7 @@
       "external_url": "https://exchange.art/editions/6S5bP89Xn2f7zsnxg38a7iCw941vA4HgQuRND6ZdKsjn/activity#editions-tabs"
     },
     {
-      "path": "art/photos.exe.md",
+      "path": "",
       "title": "Photos.exe",
       "paragraph": "Moments captured during my trip to NYC.  ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203132047.png",
@@ -50,7 +50,7 @@
       "external_url": "https://exchange.art/editions/4vhYF5aWBd5NBLXNpx9gBtNyWUMqt6HKb3ukcMxpLb2y/activity#editions-tabs"
     },
     {
-      "path": "art/sleep-work.md",
+      "path": "",
       "title": "Sleep Work",
       "paragraph": "When you think of a fix for that bug while trying to fall asleep.  ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203125553.png",
@@ -60,7 +60,7 @@
       "external_url": "https://exchange.art/editions/B9puCoSQnyckDZR7p4RLPHjFLAN2NP7z2xXBu7e1V6fi"
     },
     {
-      "path": "art/take-off.md",
+      "path": "",
       "title": "Take Off",
       "paragraph": "Audio systems are go. Lofi playback is confirmed.  ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203131553.png",
@@ -70,7 +70,7 @@
       "external_url": "https://exchange.art/editions/Giqy66fzv6wcxuqwpPKqRwDHxfCH8wRXkrgXPMU727eh"
     },
     {
-      "path": "art/truth-in-color.md",
+      "path": "",
       "title": "Truth in Color",
       "paragraph": "It takes true values to see the color.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203130740.png",
@@ -78,11 +78,9 @@
       "created_at": "2022-11-12T20:40:00-08:00",
       "external_url": "https://exchange.art/editions/7v7jL7W8q2GdQuoHjaJQPRJUXmCUXDrQRSrHPoHgLKsk",
       "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FV2uVO1Zr3bQvjoFKhbkO5F9W0XiH1FJ8Yphu7u3skII%3Fext%3Dgif&width=350&quality=85&format=gif"
-    }
-  ],
-  "gists": [
+    },
     {
-      "path": "gists/33-times-hash.md",
+      "path": "",
       "title": "33 Times Hash",
       "paragraph": "This is Daniel J. Bernstein's popular 'times 33' hash function ",
       "image": "",
@@ -90,7 +88,7 @@
       "created_at": "2025-02-01T20:40:00-08:00"
     },
     {
-      "path": "gists/calc-merkle-tree-size.md",
+      "path": "",
       "title": "Calc Merkle Tree Size",
       "paragraph": "Utility for calculating merkle tree size config when setting up a Solana compressed NFT project. ",
       "image": "",
@@ -98,7 +96,7 @@
       "created_at": "2023-6-6T20:40:00-08:00"
     },
     {
-      "path": "gists/encryptor.md",
+      "path": "",
       "title": "Encryptor",
       "paragraph": "Class for handling encrypting/decrypting strings.",
       "image": "",
@@ -106,7 +104,7 @@
       "created_at": "2025-01-01T20:40:00-08:00"
     },
     {
-      "path": "gists/irys-in-sveltekit.md",
+      "path": "",
       "title": "Irys in SvelteKit",
       "paragraph": "Upload files on-chain using Irys and Sveltekit.",
       "image": "",
@@ -114,7 +112,7 @@
       "created_at": "2025-01-01T20:40:00-08:00"
     },
     {
-      "path": "gists/otp.md",
+      "path": "",
       "title": "OTP",
       "paragraph": "Utility for implementing and verifying OTPs. ",
       "image": "",
@@ -122,7 +120,7 @@
       "created_at": "2025-01-01T20:40:00-08:00"
     },
     {
-      "path": "gists/react-fetchable.md",
+      "path": "",
       "title": "React Fetchable",
       "paragraph": "Typed request handler for React that manages its own state.",
       "image": "",
@@ -130,7 +128,7 @@
       "created_at": "2023-5-2T20:40:00-08:00"
     },
     {
-      "path": "gists/sveltekit-auth.md",
+      "path": "",
       "title": "Sveltekit OAuth + Session Validation",
       "paragraph": "OAuth and session management patterns for SvelteKit.",
       "image": "",
@@ -138,7 +136,7 @@
       "created_at": "2025-3-1T20:40:00-08:00"
     },
     {
-      "path": "gists/sveltekit-eth-wallet-connect.md",
+      "path": "",
       "title": "Sveltekit  + Eth Wallet Connect",
       "paragraph": "Add \"Connect Ethereum Wallet\" to a SvelteKit app. ",
       "image": "",
@@ -146,17 +144,15 @@
       "created_at": "2024-11-12T20:40:00-08:00"
     },
     {
-      "path": "gists/upload-folder-to-irys.md",
+      "path": "",
       "title": "Upload Folder to Irys",
       "paragraph": "Script for uploading a directory on-chain using Irys.",
       "image": "",
       "updated_at": "2025-12-03T12:06:34-08:00",
       "created_at": "2022-01-01T20:40:00-08:00"
-    }
-  ],
-  "guides": [
+    },
     {
-      "path": "guides/computer-setup.md",
+      "path": "",
       "title": "Computer Setup",
       "paragraph": "I've added a config pattern and CLI for detecting the current OS and syncing configs based on the environment.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202164036.png",
@@ -165,7 +161,7 @@
       "repo_url": "https://github.com/qudo-code/dots"
     },
     {
-      "path": "guides/docker.md",
+      "path": "",
       "title": "Docker",
       "paragraph": "Docker at its core is a tool for organizing virtual machines. In this guide I go over how I use it for developing and hosting all my projects.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165028.png",
@@ -173,7 +169,7 @@
       "created_at": "2025-03-17T20:40:00-08:00"
     },
     {
-      "path": "guides/html-nft-art-on-solana.md",
+      "path": "",
       "title": "HTML NFT Art on Solana",
       "paragraph": "I figured out how to make an interactive HTML NFT game that's playable on [@exchgART](https://x.com/exchgART). Here's what I learned and how you can build one too!",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203133842.png",
@@ -183,7 +179,7 @@
       "app_url": ""
     },
     {
-      "path": "guides/intro-to-leptos.md",
+      "path": "",
       "title": "Intro to Leptos",
       "paragraph": "I am new to this framework and Rust so DYOR, what do I know. But, I've experimented with a lot of state shapes in web dev using meta frameworks like SvelteKit and lately the closest thing to what I've wanted is tRPC + Tanstack Query + tRPC/Tanstack Adapter.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202194805.png",
@@ -192,7 +188,7 @@
       "x_url": "https://x.com/_qudo/status/1638193893580869632"
     },
     {
-      "path": "guides/obsidian-vault-syncing.md",
+      "path": "",
       "title": "Obsidian Vault Syncing",
       "paragraph": "I sync my vault to GitHub, but the problem with that is everything can only be 100% private or 100% public. I found a slick way around this so I can use one vault for everything.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202193609.png",
@@ -202,7 +198,7 @@
       "repo_url": "https://github.com/qudo-code/obsidian-vault-template"
     },
     {
-      "path": "guides/svelte-cloudflare-worker.md",
+      "path": "",
       "title": "Svelte Cloudflare Worker",
       "paragraph": "A super small Svelte app with a companion Cloudflare worker as a backend when you need it. It's kinda like Sveltekit, but more modular and less guided.",
       "image": "",
@@ -211,7 +207,7 @@
       "repo_url": "https://github.com/the76devs/template--smol-svelte-cloudflare-worker"
     },
     {
-      "path": "guides/svelte-single-file.md",
+      "path": "",
       "title": "Svelte Single File",
       "paragraph": "Compile a Svelte project to a single index.html file.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121223.png",
@@ -220,7 +216,7 @@
       "repo_url": "https://github.com/qudo-code/template--svelte-single-file"
     },
     {
-      "path": "guides/sveltekit-solana-signin-with-wallet.md",
+      "path": "",
       "title": "Sveltekit + Solana Wallet Signin",
       "paragraph": "Full-stack SvelteKit example project showing \"Sign in With Solana\" patterns. - Use Solana wallet adapter & connect to wallet. - Request time-sensitive message from the backend. - Sign message using wallet. - Verify signature.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202200621.png",
@@ -229,17 +225,15 @@
       "repo_url": "https://github.com/qudo-code/example--svelte-sign-in-with-solana"
     },
     {
-      "path": "guides/upload-files-onchain-using-irys.md",
+      "path": "",
       "title": "Upload Files On-Chain Using Irys",
       "paragraph": "In this guide, we will learn how to upload files on-chain using Solana, Irys, and TypeScript.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202165342.png",
       "updated_at": "2025-12-03T11:59:30-08:00",
       "created_at": "2025-03-25T20:40:00-08:00"
-    }
-  ],
-  "projects": [
+    },
     {
-      "path": "projects/blockchain-explorer.md",
+      "path": "",
       "title": "XRAY Explorer",
       "paragraph": "Human-readable Solana blockchain explorer built with SvelteKit. Built for Grizzlython hackathon.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191343.png",
@@ -249,7 +243,7 @@
       "x_url": "https://x.com/_qudo/status/1740843157309608427?s=20"
     },
     {
-      "path": "projects/calculate-merkle-tree-cli.md",
+      "path": "",
       "title": "Calculate Merkle Tree Size CLI",
       "paragraph": "Calculate Merkle Tree For example, run \"npx cnfts calculate 8\" to view tree configs that work with max proof 8.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192550.png",
@@ -257,7 +251,7 @@
       "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
-      "path": "projects/compressed-bananas.md",
+      "path": "",
       "title": "Compressed Bananas",
       "paragraph": "A free cNFT dispenser in celebration of NYC Solana Hacker House and presented on demo day.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191539.png",
@@ -266,7 +260,7 @@
       "repo_url": "https://github.com/qudo-code/compressed-bananas"
     },
     {
-      "path": "projects/dedoc.md",
+      "path": "",
       "title": "Dedoc",
       "paragraph": "Decentralized on-chain documentation suitable for any project. Content is stored for eternity on Arweave and verified on Solana using Metaplex cNFTs. Users are their own creators and own 100% of their data.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202181752.png",
@@ -276,7 +270,7 @@
       "x_url": "https://x.com/_qudo/status/1763217628120908047?s=20"
     },
     {
-      "path": "projects/devnet-directory.md",
+      "path": "",
       "title": "Devnet Directory",
       "paragraph": "On-chain directory of Solana developers.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202210603.png",
@@ -285,7 +279,7 @@
       "x_url": "https://x.com/the76devs/status/1743389412644577677?s=20"
     },
     {
-      "path": "projects/gibwallet-cli.md",
+      "path": "",
       "title": "Gibwallet CLI",
       "paragraph": "Create a TipLink wallet on the fly by running `npx gibwallet`",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192443.png",
@@ -294,7 +288,7 @@
       "repo_url": "https://www.npmjs.com/package/gibwallet"
     },
     {
-      "path": "projects/jobs-board.md",
+      "path": "",
       "title": "Jobs Board",
       "paragraph": "Developed jobs board with AI candidate screening and external integrations. ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191155.png",
@@ -303,7 +297,7 @@
       "app_url": "https://jobs.cyfrin.io"
     },
     {
-      "path": "projects/matr-bot.md",
+      "path": "",
       "title": "Matr Bot",
       "paragraph": "A Discord bot developed for The 76 Devs community. The bot supports tracking the price of solana, verifying users, and distributing devnet SOL to those who request it by running `!gibsol`.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202201711.png",
@@ -311,7 +305,7 @@
       "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
-      "path": "projects/on-chain-user-profiles.md",
+      "path": "",
       "title": "On-Chain User Profiles",
       "paragraph": "A user profiles protocol stored on Arweave, verified on Solana via compressed NFTs.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121607.png",
@@ -320,7 +314,7 @@
       "repo_url": "https://github.com/qudo-code/eternal-users-protocol"
     },
     {
-      "path": "projects/opos-outliers.md",
+      "path": "",
       "title": "OPOS Outliers",
       "paragraph": "Mint a compressed NFT for free without a wallet using Solana and TipLink. Users are able to design an \"OPOS Outlier\" and mint it as a cNFT via Gmail-based claiming. The art and attributes were created by Web3 artists and brands.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202175702.png",
@@ -329,7 +323,7 @@
       "app_url": "https://opos.quest/"
     },
     {
-      "path": "projects/sketchy-wallet.md",
+      "path": "",
       "title": "Sketchy Wallet",
       "paragraph": "Generate a Solana wallet and email the credentials to someone. Perfect for those times when you need a one off wallet with keys auto backed up. I used this for making a wallet for my toddler so I can send him NFTs.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202192403.png",
@@ -337,7 +331,7 @@
       "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
-      "path": "projects/solana-terminal.md",
+      "path": "",
       "title": "Solana Terminal ",
       "paragraph": "Solana Terminal, an NFT explorer and utilities. Link your wallet and Discord, listen to music NFTs, render HTML NFTs, view your artwork, query NFTs by creator and more.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202191434.png",
@@ -345,7 +339,7 @@
       "created_at": "2022-01-01T20:40:00-08:00"
     },
     {
-      "path": "projects/state-machine-snacks.md",
+      "path": "",
       "title": "State Machine Snacks",
       "paragraph": "A framework built on [XState](https://xstate.js.org/docs/about/concepts.html) that provides bite sized snacks for developing with state machine machines. 🍕 aims to increase state machine adoption in modern day web apps by providing a suite of tools and plugins to inspire development and new ways of thinking.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203121818.png",
@@ -354,7 +348,7 @@
       "repo_url": "https://github.com/qudo-code/state-machine-snacks"
     },
     {
-      "path": "projects/the-76-devs.md",
+      "path": "",
       "title": "The 76 Devs",
       "paragraph": "Created a Discord community where developers can ask questions and share what they're working on during our live show n tells. We have ~3k+ members in Discord and 1.5k+ on Twitter. ",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202210052.png",
@@ -363,7 +357,7 @@
       "created_at": "2023-07-015T20:40:00-08:00"
     },
     {
-      "path": "projects/user-profiles.md",
+      "path": "",
       "title": "User Profiles",
       "paragraph": "Lead development of cross-app authentication and user profiles that supported 150k accounts.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202205205.png",
