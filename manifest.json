@@ -194,9 +194,9 @@
     {
       "path": "guides/obsidian-vault-syncing.md",
       "title": "Obsidian Vault Syncing",
-      "paragraph": "I love [@obsdmd](https://x.com/obsdmd) and I just figured out a life changing addition to make my stack even better. I sync my vault to GitHub, but the problem with that is everything can only be 100% private or 100% public. I found a slick way around this so I can use one vault for everything.",
+      "paragraph": "I sync my vault to GitHub, but the problem with that is everything can only be 100% private or 100% public. I found a slick way around this so I can use one vault for everything.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202193609.png",
-      "updated_at": "2025-12-03T12:34:34-08:00",
+      "updated_at": "2025-12-03T16:14:58-08:00",
       "created_at": "2025-12-02T20:40:00-08:00",
       "x_url": "https://x.com/_qudo/status/1995982742140723276?s=20",
       "repo_url": "https://github.com/qudo-code/obsidian-vault-template"
@@ -307,8 +307,8 @@
       "title": "Matr Bot",
       "paragraph": "A Discord bot developed for The 76 Devs community. The bot supports tracking the price of solana, verifying users, and distributing devnet SOL to those who request it by running `!gibsol`.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251202201711.png",
-      "updated_at": "2025-12-02T20:18:50-08:00",
-      "created_at": "2025-12-02T20:18:37-08:00"
+      "updated_at": "2025-12-03T16:14:58-08:00",
+      "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
       "path": "projects/on-chain-user-profiles.md",
