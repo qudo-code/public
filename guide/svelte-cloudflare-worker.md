@@ -1,5 +1,6 @@
 
 # Svelte Cloudflare Worker
+![](https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203171342.png)
 A super small Svelte app with a companion Cloudflare worker as a backend when you need it. It's kinda like Sveltekit, but more modular and less guided.
 
 ## 📱 Apps

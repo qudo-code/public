@@ -251,8 +251,8 @@
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guide/svelte-cloudflare-worker.md",
       "title": "Svelte Cloudflare Worker",
       "description": "A super small Svelte app with a companion Cloudflare worker as a backend when you need it. It's kinda like Sveltekit, but more modular and less guided.",
-      "image": "",
-      "updated_at": "2025-12-03T16:54:02-08:00",
+      "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203171342.png",
+      "updated_at": "2025-12-03T17:13:46-08:00",
       "created_at": "2023-06-28T20:40:00-08:00",
       "repo_url": "https://github.com/the76devs/template--smol-svelte-cloudflare-worker"
     },
