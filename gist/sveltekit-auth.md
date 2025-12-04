@@ -1,5 +1,5 @@
 
-# Sveltekit OAuth + Session Validation
+# OAuth + Sessions
 OAuth and session management patterns for SvelteKit.
 `auth.ts`
 ```ts
