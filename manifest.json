@@ -1,6 +1,7 @@
 {
   "art": [
     {
+      "type": "art",
       "path": "art/8-bit-thinking.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/art/8-bit-thinking.md",
       "title": "8 Bit Thinking",
@@ -12,6 +13,7 @@
       "external_url": "https://exchange.art/single/7Ls8JBe9wd6jyZ8uMzJQR3sbVYMUf5t4z6fMGyrwR8sK"
     },
     {
+      "type": "art",
       "path": "art/amsterdam-art-walk.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/art/amsterdam-art-walk.md",
       "title": "Amsterdam Art Walk",
@@ -22,6 +24,7 @@
       "external_url": "https://exchange.art/editions/7UHGW8UJ1MS62g1RAdRG1yeGnfDYgXGAeyguwhtHVNCy/activity#editions-tabs"
     },
     {
+      "type": "art",
       "path": "art/bitsweeper.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/art/bitsweeper.md",
       "title": "Bitsweeper",
@@ -33,6 +36,7 @@
       "external_url": "https://exchange.art/series/Bitsweeper/nfts"
     },
     {
+      "type": "art",
       "path": "art/game-of-life.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/art/game-of-life.md",
       "title": "Game of Life",
@@ -44,6 +48,7 @@
       "external_url": "https://exchange.art/editions/6S5bP89Xn2f7zsnxg38a7iCw941vA4HgQuRND6ZdKsjn/activity#editions-tabs"
     },
     {
+      "type": "art",
       "path": "art/photos.exe.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/art/photos.exe.md",
       "title": "Photos.exe",
@@ -55,6 +60,7 @@
       "external_url": "https://exchange.art/editions/4vhYF5aWBd5NBLXNpx9gBtNyWUMqt6HKb3ukcMxpLb2y/activity#editions-tabs"
     },
     {
+      "type": "art",
       "path": "art/sleep-work.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/art/sleep-work.md",
       "title": "Sleep Work",
@@ -66,6 +72,7 @@
       "external_url": "https://exchange.art/editions/B9puCoSQnyckDZR7p4RLPHjFLAN2NP7z2xXBu7e1V6fi"
     },
     {
+      "type": "art",
       "path": "art/take-off.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/art/take-off.md",
       "title": "Take Off",
@@ -77,6 +84,7 @@
       "external_url": "https://exchange.art/editions/Giqy66fzv6wcxuqwpPKqRwDHxfCH8wRXkrgXPMU727eh"
     },
     {
+      "type": "art",
       "path": "art/truth-in-color.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/art/truth-in-color.md",
       "title": "Truth in Color",
@@ -90,6 +98,7 @@
   ],
   "gists": [
     {
+      "type": "gists",
       "path": "gists/33-times-hash.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gists/33-times-hash.md",
       "title": "33 Times Hash",
@@ -99,6 +108,7 @@
       "created_at": "2025-02-01T20:40:00-08:00"
     },
     {
+      "type": "gists",
       "path": "gists/calc-merkle-tree-size.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gists/calc-merkle-tree-size.md",
       "title": "Calc Merkle Tree Size",
@@ -108,6 +118,7 @@
       "created_at": "2023-6-6T20:40:00-08:00"
     },
     {
+      "type": "gists",
       "path": "gists/encryptor.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gists/encryptor.md",
       "title": "Encryptor",
@@ -117,6 +128,7 @@
       "created_at": "2025-01-01T20:40:00-08:00"
     },
     {
+      "type": "gists",
       "path": "gists/irys-in-sveltekit.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gists/irys-in-sveltekit.md",
       "title": "Irys in SvelteKit",
@@ -126,6 +138,7 @@
       "created_at": "2025-01-01T20:40:00-08:00"
     },
     {
+      "type": "gists",
       "path": "gists/otp.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gists/otp.md",
       "title": "OTP",
@@ -135,6 +148,7 @@
       "created_at": "2025-01-01T20:40:00-08:00"
     },
     {
+      "type": "gists",
       "path": "gists/react-fetchable.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gists/react-fetchable.md",
       "title": "React Fetchable",
@@ -144,6 +158,7 @@
       "created_at": "2023-5-2T20:40:00-08:00"
     },
     {
+      "type": "gists",
       "path": "gists/sveltekit-auth.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gists/sveltekit-auth.md",
       "title": "Sveltekit OAuth + Session Validation",
@@ -153,6 +168,7 @@
       "created_at": "2025-3-1T20:40:00-08:00"
     },
     {
+      "type": "gists",
       "path": "gists/sveltekit-eth-wallet-connect.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gists/sveltekit-eth-wallet-connect.md",
       "title": "Sveltekit  + Eth Wallet Connect",
@@ -162,6 +178,7 @@
       "created_at": "2024-11-12T20:40:00-08:00"
     },
     {
+      "type": "gists",
       "path": "gists/upload-folder-to-irys.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/gists/upload-folder-to-irys.md",
       "title": "Upload Folder to Irys",
@@ -173,6 +190,7 @@
   ],
   "guides": [
     {
+      "type": "guides",
       "path": "guides/computer-setup.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guides/computer-setup.md",
       "title": "Computer Setup",
@@ -183,6 +201,7 @@
       "repo_url": "https://github.com/qudo-code/dots"
     },
     {
+      "type": "guides",
       "path": "guides/docker.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guides/docker.md",
       "title": "Docker",
@@ -192,6 +211,7 @@
       "created_at": "2025-03-17T20:40:00-08:00"
     },
     {
+      "type": "guides",
       "path": "guides/html-nft-art-on-solana.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guides/html-nft-art-on-solana.md",
       "title": "HTML NFT Art on Solana",
@@ -203,6 +223,7 @@
       "app_url": ""
     },
     {
+      "type": "guides",
       "path": "guides/intro-to-leptos.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guides/intro-to-leptos.md",
       "title": "Intro to Leptos",
@@ -213,6 +234,7 @@
       "x_url": "https://x.com/_qudo/status/1638193893580869632"
     },
     {
+      "type": "guides",
       "path": "guides/obsidian-vault-syncing.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guides/obsidian-vault-syncing.md",
       "title": "Obsidian Vault Syncing",
@@ -224,6 +246,7 @@
       "repo_url": "https://github.com/qudo-code/obsidian-vault-template"
     },
     {
+      "type": "guides",
       "path": "guides/svelte-cloudflare-worker.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guides/svelte-cloudflare-worker.md",
       "title": "Svelte Cloudflare Worker",
@@ -234,6 +257,7 @@
       "repo_url": "https://github.com/the76devs/template--smol-svelte-cloudflare-worker"
     },
     {
+      "type": "guides",
       "path": "guides/svelte-single-file.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guides/svelte-single-file.md",
       "title": "Svelte Single File",
@@ -244,6 +268,7 @@
       "repo_url": "https://github.com/qudo-code/template--svelte-single-file"
     },
     {
+      "type": "guides",
       "path": "guides/sveltekit-solana-signin-with-wallet.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guides/sveltekit-solana-signin-with-wallet.md",
       "title": "Sveltekit + Solana Wallet Signin",
@@ -254,6 +279,7 @@
       "repo_url": "https://github.com/qudo-code/example--svelte-sign-in-with-solana"
     },
     {
+      "type": "guides",
       "path": "guides/upload-files-onchain-using-irys.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/guides/upload-files-onchain-using-irys.md",
       "title": "Upload Files On-Chain Using Irys",
@@ -265,6 +291,7 @@
   ],
   "projects": [
     {
+      "type": "projects",
       "path": "projects/blockchain-explorer.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/blockchain-explorer.md",
       "title": "XRAY Explorer",
@@ -276,6 +303,7 @@
       "x_url": "https://x.com/_qudo/status/1740843157309608427?s=20"
     },
     {
+      "type": "projects",
       "path": "projects/calculate-merkle-tree-cli.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/calculate-merkle-tree-cli.md",
       "title": "Calculate Merkle Tree Size CLI",
@@ -285,6 +313,7 @@
       "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
+      "type": "projects",
       "path": "projects/compressed-bananas.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/compressed-bananas.md",
       "title": "Compressed Bananas",
@@ -295,6 +324,7 @@
       "repo_url": "https://github.com/qudo-code/compressed-bananas"
     },
     {
+      "type": "projects",
       "path": "projects/dedoc.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/dedoc.md",
       "title": "Dedoc",
@@ -306,6 +336,7 @@
       "x_url": "https://x.com/_qudo/status/1763217628120908047?s=20"
     },
     {
+      "type": "projects",
       "path": "projects/devnet-directory.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/devnet-directory.md",
       "title": "Devnet Directory",
@@ -316,6 +347,7 @@
       "x_url": "https://x.com/the76devs/status/1743389412644577677?s=20"
     },
     {
+      "type": "projects",
       "path": "projects/gibwallet-cli.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/gibwallet-cli.md",
       "title": "Gibwallet CLI",
@@ -326,6 +358,7 @@
       "repo_url": "https://www.npmjs.com/package/gibwallet"
     },
     {
+      "type": "projects",
       "path": "projects/jobs-board.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/jobs-board.md",
       "title": "Jobs Board",
@@ -336,6 +369,7 @@
       "app_url": "https://jobs.cyfrin.io"
     },
     {
+      "type": "projects",
       "path": "projects/matr-bot.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/matr-bot.md",
       "title": "Matr Bot",
@@ -345,6 +379,7 @@
       "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
+      "type": "projects",
       "path": "projects/on-chain-user-profiles.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/on-chain-user-profiles.md",
       "title": "On-Chain User Profiles",
@@ -355,6 +390,7 @@
       "repo_url": "https://github.com/qudo-code/eternal-users-protocol"
     },
     {
+      "type": "projects",
       "path": "projects/opos-outliers.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/opos-outliers.md",
       "title": "OPOS Outliers",
@@ -365,6 +401,7 @@
       "app_url": "https://opos.quest/"
     },
     {
+      "type": "projects",
       "path": "projects/sketchy-wallet.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/sketchy-wallet.md",
       "title": "Sketchy Wallet",
@@ -374,6 +411,7 @@
       "created_at": "2022-03-01T20:40:00-08:00"
     },
     {
+      "type": "projects",
       "path": "projects/solana-terminal.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/solana-terminal.md",
       "title": "Solana Terminal ",
@@ -383,6 +421,7 @@
       "created_at": "2022-01-01T20:40:00-08:00"
     },
     {
+      "type": "projects",
       "path": "projects/state-machine-snacks.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/state-machine-snacks.md",
       "title": "State Machine Snacks",
@@ -393,6 +432,7 @@
       "repo_url": "https://github.com/qudo-code/state-machine-snacks"
     },
     {
+      "type": "projects",
       "path": "projects/the-76-devs.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/the-76-devs.md",
       "title": "The 76 Devs",
@@ -403,6 +443,7 @@
       "created_at": "2023-07-015T20:40:00-08:00"
     },
     {
+      "type": "projects",
       "path": "projects/user-profiles.md",
       "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/projects/user-profiles.md",
       "title": "User Profiles",
