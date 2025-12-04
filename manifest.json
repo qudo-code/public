@@ -112,6 +112,20 @@
       "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2FV2uVO1Zr3bQvjoFKhbkO5F9W0XiH1FJ8Yphu7u3skII%3Fext%3Dgif&width=350&quality=85&format=gif"
     }
   ],
+  "doc": [
+    {
+      "type": "doc",
+      "path": "doc/resume.md",
+      "url": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/doc/resume.md",
+      "title": "Lucas H",
+      "description": "Full stack web developer and designer. Experience in leading development teams and building maintainable scalable systems.",
+      "image": "",
+      "code_preview": "",
+      "code_lang": "",
+      "updated_at": "2025-12-03T23:17:37-08:00",
+      "created_at": "2025-12-03T23:17:37-08:00"
+    }
+  ],
   "gist": [
     {
       "type": "gist",
