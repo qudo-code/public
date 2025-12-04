@@ -21,10 +21,10 @@
     },
     {
       "path": "art/bitsweeper.md",
-      "title": "",
-      "paragraph": "",
+      "title": "Bitsweeper",
+      "paragraph": "A minesweeper like game in an NFT. Available to play on ExchangeArt.",
       "image": "https://raw.githubusercontent.com/qudo-code/public/refs/heads/main/media/Pasted%20image%2020251203124720.png",
-      "updated_at": "2025-12-03T14:20:41-08:00",
+      "updated_at": "2025-12-03T16:20:54-08:00",
       "created_at": "2022-11-12T20:40:00-08:00",
       "gif_url": "https://us-central1-exchg-prod-marketplace.cloudfunctions.net/resizeImageAndCache?url=https%3A%2F%2Farweave.net%2Fcj8QU_j5NxpXdfnS4-3R_5UliOgy86lHrpinXrFG2Bk%3Fext%3Dgif&width=350&quality=85&format=gif",
       "external_url": "https://exchange.art/series/Bitsweeper/nfts"
